@@ -1,0 +1,38 @@
+/* OWNER */
+
+  Ryzac, Inc.
+  GitHub Profile: https://github.com/RyzacInc
+  Location: New York, NY
+  Website: http://www.codecademy.com
+
+/* CONTRIBUTORS */
+
+  Lalith Polepeddi
+  GitHub Profile: https://github.com/cuttarug
+
+  Dustin Goodman
+  GitHub Profile: https://github.com/sharocko
+  Location: Atlanta, GA
+
+  AlbionsRefuge
+  GitHub Profile: https://github.com/AlbionsRefuge
+
+  Joah Gerstenberg
+  GitHub Profile: https://github.com/JoahG
+  Location: Texas
+  Website: www.joahg.com
+
+  Grant McLendon
+  GitHub Profile: https://github.com/gerbal
+
+  Alex C
+  GitHub Profile: https://github.com/A-J-C
+
+  Pedro Martins
+  GitHub Profile: https://github.com/Fl4m3Ph03n1x
+  Location: Portugal
+
+  Haley
+  GitHub Profile: https://github.com/GraceNut
+  Location: Texas
+  Website: gracenut.github.io
